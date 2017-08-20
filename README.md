@@ -1,2 +1,2 @@
 # Hoboexpress
-- [Hoboexpress][hoboexpress.ca]
+- [Hoboexpress][http://hoboexpress.ca]
