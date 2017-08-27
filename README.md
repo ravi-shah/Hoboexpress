@@ -2,3 +2,5 @@
 - [Hoboexpress](http://hoboexpress.ca)
 
 - Setup
+
+-compile
