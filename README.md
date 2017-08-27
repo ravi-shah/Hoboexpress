@@ -3,4 +3,7 @@
 
 - Setup
 
+- Start the development server with this command:
+
+
 -compile
